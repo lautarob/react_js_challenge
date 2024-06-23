@@ -8,7 +8,7 @@ This project is a simple React application that fetches user data from an extern
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/lautarob/react_js_challenge.git
-   cd api-connection-challenge
+   cd react_js_challenge
    ```
 
 2. **Install Dependencies**:
